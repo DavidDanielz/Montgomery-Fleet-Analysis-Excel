@@ -5,7 +5,7 @@ This project analyzes the fleet inventory of Montgomery County. The analysis inc
 ## Datasets Used in this Assignment
 The dataset used in this lab is sourced from the Montgomery County Government's Fleet Equipment Inventory, available [here](https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr/about_data) under a Public Domain license.
 
-Please note that a modified subset of this dataset is being used for the project. To follow the instructions successfully, use the dataset provided with the lab rather than the original source.
+Please note that a modified subset of this dataset is being used for the project. To follow along successfully, use the dataset provided with the lab rather than the original source.
 
 - [Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.csv](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis/blob/d0a1481dce3cdcb0fbf679f723bcc81ee391a794/Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START%20(1).csv)
 
