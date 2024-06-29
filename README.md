@@ -9,7 +9,7 @@ This project analyzes the fleet inventory of Montgomery County. The analysis inc
 ## Files
 
 - [Montgomery Fleet Equipment Inventory Part 1](Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX.xlsx)
-- [Montgomery Fleet Equipment Inventory Part 2](./Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX)
+- [Montgomery Fleet Equipment Inventory Part 2](Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX.xlsx)
 
 ## Description
 
