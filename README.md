@@ -7,7 +7,8 @@ The dataset used in this lab is sourced from the Montgomery County Government's 
 
 Please note that a modified subset of this dataset is being used for the project. To follow the instructions successfully, use the dataset provided with the lab rather than the original source.
 
-- [Montgomery Fleet Equipment Inventory Part 1](Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START (1).csv)
+- [Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.csv](Montgomery-Fleet-Analysis/Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START%20(1).csv)
+
 - [Montgomery Fleet Equipment Inventory Part 2](./data/Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.xlsx)
 
 ---
