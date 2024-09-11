@@ -40,8 +40,10 @@ Files [Montgomery Fleet Equipment Inventory Part 2](Montgomery_Fleet_Equipment_I
 - Creation and manipulation of pivot tables.
 
 ## Visuals
+Here is the pivot table analysis performed during this project:
 ![Description of the image](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis-Excel/blob/main/Excel%20Screenshot%201.jpeg?raw=true)
 
+The following chart represents the distribution of equipment by department:
 ![Description of the image](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis-Excel/blob/main/Excel%20Screenshot%202.jpeg?raw=true)
 
 ![Description of the image](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis-Excel/blob/main/Excel%20Screenshot%203.3.jpeg?raw=true)
