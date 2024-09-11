@@ -42,3 +42,10 @@ Files [Montgomery Fleet Equipment Inventory Part 2](Montgomery_Fleet_Equipment_I
 ## Visuals
 ![Description of the image](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis-Excel/blob/main/Excel%20Screenshot%201.jpeg?raw=true)
 
+![Description of the image](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis-Excel/blob/main/Excel%20Screenshot%202.jpeg?raw=true)
+
+
+
+
+
+
