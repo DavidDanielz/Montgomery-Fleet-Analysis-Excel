@@ -1,5 +1,5 @@
 # Montgomery Fleet Analysis  ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-#### This project analyzes the fleet inventory of Montgomery County using Excel. The analysis involves data cleaning and the creation of pivot tables to gain insights from the fleet data.
+This project analyzes the fleet inventory of Montgomery County using Excel. The analysis involves data cleaning and the creation of pivot tables to gain insights from the fleet data.
 
 
 
