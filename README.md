@@ -1,9 +1,32 @@
 # Montgomery Fleet Analysis  ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 This project analyzes the fleet inventory of Montgomery County using Excel. The analysis involves data cleaning and the creation of pivot tables to gain insights from the fleet data.
 
+## Pivot Table Analyses
+
+### Pivot Table 1: Equipment Count by Department
+This table shows the sum of equipment in each department, giving insight into which departments have the most resources.
+![Description of the image](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis-Excel/blob/main/Excel%20Screenshot%201.jpeg?raw=true)
 
 
-## Datasets Used
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - The dataset used in this lab is sourced from the Montgomery County Government's Fleet Equipment Inventory, available [here](https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr/about_data) under a Public Domain license.
 
 - A modified subset of this dataset is used for the project. To follow along, use the provided dataset rather than the original.
