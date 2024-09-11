@@ -17,7 +17,7 @@ A modified subset of this dataset is used for the project. To follow along, use 
 
 ### Project Overview
 
-### Part 1: Data Cleaning and Preparation
+## Part 1: Data Cleaning and Preparation
 
 - Cleaned and formatted the dataset.
 - Removed empty rows and duplicate records.
@@ -26,7 +26,7 @@ A modified subset of this dataset is used for the project. To follow along, use 
 
 Files [Montgomery Fleet Equipment Inventory Part 1](Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX.xlsx)
 
-### Part 2: Data Analysis with Pivot Tables
+## Part 2: Data Analysis with Pivot Tables
 
 - Formatted data as a table.
 - Calculated SUM, AVERAGE, MIN, MAX, and COUNT for a specific column.
@@ -34,7 +34,7 @@ Files [Montgomery Fleet Equipment Inventory Part 1](Montgomery_Fleet_Equipment_I
 
 Files [Montgomery Fleet Equipment Inventory Part 2](Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX.xlsx)
 
-### Skills Demonstrated
+## Skills Demonstrated
 
 - Data cleaning and preparation.
 - Data analysis using Excel.
