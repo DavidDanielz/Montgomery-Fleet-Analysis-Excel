@@ -3,13 +3,21 @@ This project analyzes the fleet inventory of Montgomery County using Excel. The 
 
 ## Pivot Table Analyses
 
-### Pivot Table 1: Equipment Count by Department
-This table shows the sum of equipment in each department, giving insight into which departments have the most resources.
+## Visuals
+Here is the pivot table analysis performed during this project:
 ![Description of the image](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis-Excel/blob/main/Excel%20Screenshot%201.jpeg?raw=true)
 
+### Pivot Table 1: Equipment Count by Department
+This table shows the sum of equipment in each department, giving insight into which departments have the most resources.
+![Description of the image](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis-Excel/blob/main/Excel%20Screenshot%202.jpeg?raw=true)
 
+### Pivot Table 2: Department and Equipment Class Breakdown
+This table provides a more detailed view by showing the equipment count for each department along with the equipment class.
+![Description of the image](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis-Excel/blob/main/Excel%20Screenshot%203.3.jpeg?raw=true)
 
-
+### Pivot Table 3: Equipment Class Distribution by Department
+This table analyzes the distribution of different equipment classes across various departments.
+![Description of the image](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis-Excel/blob/main/Excel%20Screenshot%204.4.jpeg?raw=true)
 
 
 
