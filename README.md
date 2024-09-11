@@ -13,72 +13,19 @@ This table shows the sum of equipment in each department, giving insight into wh
 
 ### Pivot Table 2: Department and Equipment Class Breakdown
 This table provides a more detailed view by showing the equipment count for each department along with the equipment class.
-![Description of the image](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis-Excel/blob/main/Excel%20Screenshot%203.3.jpeg?raw=true)
+![Description of the image](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis-Excel/blob/main/Excel%20Screenshot%203.jpeg?raw=true)
 
 ### Pivot Table 3: Equipment Class Distribution by Department
 This table analyzes the distribution of different equipment classes across various departments.
-![Description of the image](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis-Excel/blob/main/Excel%20Screenshot%204.4.jpeg?raw=true)
+![Description of the image](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis-Excel/blob/main/Excel%20Screenshot%204.jpeg?raw=true)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- The dataset used in this lab is sourced from the Montgomery County Government's Fleet Equipment Inventory, available [here](https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr/about_data) under a Public Domain license.
-
-- A modified subset of this dataset is used for the project. To follow along, use the provided dataset rather than the original.
-
-- [Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.csv](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis/blob/d0a1481dce3cdcb0fbf679f723bcc81ee391a794/Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START%20(1).csv)
-
-- [Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.xlsx](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis/blob/e8ebd6e475e7eda712e3715509a8ec1fbcaa7a68/Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START%20(1).xlsx)
-
----
-
-## Project Overview
-
-### Part 1: Data Cleaning and Preparation
-
-- Cleaned and formatted the dataset.
-- Removed empty rows and duplicate records.
-- Corrected spelling errors and removed unnecessary whitespace.
-- Consolidated department names into a single column.
-
-Files [Montgomery Fleet Equipment Inventory Part 1](Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX.xlsx)
-
-### Part 2: Data Analysis with Pivot Tables
-
-- Formatted data as a table.
-- Calculated SUM, AVERAGE, MIN, MAX, and COUNT for a specific column.
-- Created pivot tables to analyze equipment count by department and equipment class.
-
-Files [Montgomery Fleet Equipment Inventory Part 2](Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.XLSX.xlsx)
+## Key Insights:
+- The Transportation department has the largest number of vehicles, with a total of 1,221 units.
+- Heavy Duty, Transit Bus, and Off Road Vehicle Equipment classes make up the majority of the county's fleet.
+- Smaller departments, such as Human Rights and the Office of Homeland Security, have minimal equipment requirements.
 
 ## Skills Demonstrated
-
 - Data cleaning and preparation.
 - Data analysis using Excel.
 - Creation and manipulation of pivot tables.
-
-## Visuals
-Here is the pivot table analysis performed during this project:
-![Description of the image](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis-Excel/blob/main/Excel%20Screenshot%201.jpeg?raw=true)
-
-The following chart represents the distribution of equipment by department:
-![Description of the image](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis-Excel/blob/main/Excel%20Screenshot%202.jpeg?raw=true)
-
-![Description of the image](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis-Excel/blob/main/Excel%20Screenshot%203.3.jpeg?raw=true)
-
-![Description of the image](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis-Excel/blob/main/Excel%20Screenshot%204.4.jpeg?raw=true)
-
-
+- Data visualization.
