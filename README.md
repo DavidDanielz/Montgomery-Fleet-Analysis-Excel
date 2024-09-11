@@ -37,7 +37,7 @@ This pivot table summarizes the number of each equipment class across all depart
 - Sedans and Pick Up Trucks are the most common smaller vehicles, with 130 and 150, respectively.
 
 
-## Key Insights:
+## Key Insights - Departmental Breakdown:
 - The Transportation department has the largest number of vehicles, with a total of 1,221 units.
 - Heavy Duty, Transit Bus, and Off Road Vehicle Equipment classes make up the majority of the county's fleet.
 - Smaller departments, such as Human Rights and the Office of Homeland Security, have minimal equipment requirements.
