@@ -1,11 +1,13 @@
 # Montgomery Fleet Analysis  ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-This project analyzes the fleet inventory of Montgomery County. The analysis includes data cleaning and pivot table creation using Excel. 
+#### This project analyzes the fleet inventory of Montgomery County using Excel. The analysis involves data cleaning and the creation of pivot tables to gain insights from the fleet data.
 
-## Datasets Used in this Assignment
+
+
+## Datasets Used
 The dataset used in this lab is sourced from the Montgomery County Government's Fleet Equipment Inventory, available [here](https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr/about_data) under a Public Domain license.
 
-Please note that a modified subset of this dataset is being used for the project. To follow along successfully, use the dataset provided with the lab rather than the original source.
+A modified subset of this dataset is used for the project. To follow along, use the provided dataset rather than the original.
 
 - [Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.csv](https://github.com/DavidDanielz/Montgomery-Fleet-Analysis/blob/d0a1481dce3cdcb0fbf679f723bcc81ee391a794/Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START%20(1).csv)
 
@@ -13,7 +15,7 @@ Please note that a modified subset of this dataset is being used for the project
 
 ---
 
-### Description
+### Project Overview
 
 ### Part 1: Data Cleaning and Preparation
 
