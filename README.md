@@ -43,10 +43,10 @@ This pivot table summarizes the number of each equipment class across all depart
 - Smaller departments, such as Human Rights and the Office of Homeland Security, have minimal equipment requirements.
 
 ## Summary Statistics:
-Total Equipment Count (SUM): 1,582
-Average Equipment per Department (AVERAGE): 32.3
-Minimum Equipment Count (MIN): 1
-Maximum Equipment Count (MAX): 379
+- Total Equipment Count (SUM): 1,582
+- Average Equipment per Department (AVERAGE): 32.3
+- Minimum Equipment Count (MIN): 1
+- Maximum Equipment Count (MAX): 379
 These pivot tables provide an overall snapshot of how Montgomery County allocates its fleet resources across various departments and equipment classes.
 
 ## Skills Demonstrated
