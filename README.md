@@ -39,3 +39,5 @@ Files [Montgomery Fleet Equipment Inventory Part 2](Montgomery_Fleet_Equipment_I
 - Data analysis using Excel.
 - Creation and manipulation of pivot tables.
 
+https://github.com/DavidDanielz/Montgomery-Fleet-Analysis-Excel/blob/main/Excel%20Screenshot%201.jpeg?raw=true
+
