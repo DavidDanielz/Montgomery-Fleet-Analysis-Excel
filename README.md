@@ -4,6 +4,7 @@ This project analyzes the fleet inventory of Montgomery County. The analysis inc
 ## Datasets Used
 The dataset used in this project is sourced from the Montgomery County Government's Fleet Equipment Inventory, available here.
 
+
 ## Pivot Table Analyses
 The following analysis was performed using pivot tables to summarize fleet data by Department and Equipment Class.
 
