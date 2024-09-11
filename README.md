@@ -37,7 +37,7 @@ Files [Montgomery Fleet Equipment Inventory Part 2](Montgomery_Fleet_Equipment_I
 
 - Data cleaning and preparation.
 - Data analysis using Excel.
-
-- https://1drv.ms/x/c/d92fa2276830e08f/EbkkMlPUCeJJm5MX_kWh0RkBbWfAqc6MgGflm9GMsLrjKA?e=jEpvmA&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0
 - Creation and manipulation of pivot tables.
+
+https://1drv.ms/x/c/d92fa2276830e08f/EbkkMlPUCeJJm5MX_kWh0RkBbWfAqc6MgGflm9GMsLrjKA?e=jEpvmA&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0
 
